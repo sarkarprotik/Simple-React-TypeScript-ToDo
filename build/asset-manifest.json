@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Simple-React-TypeScript-ToDo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Simple-React-TypeScript-ToDo/static/js/main.3aa102ad.chunk.js",
+    "main.js.map": "/Simple-React-TypeScript-ToDo/static/js/main.3aa102ad.chunk.js.map",
+    "runtime~main.js": "/Simple-React-TypeScript-ToDo/static/js/runtime~main.4ca965a8.js",
+    "runtime~main.js.map": "/Simple-React-TypeScript-ToDo/static/js/runtime~main.4ca965a8.js.map",
+    "static/js/2.f1d6255d.chunk.js": "/Simple-React-TypeScript-ToDo/static/js/2.f1d6255d.chunk.js",
+    "static/js/2.f1d6255d.chunk.js.map": "/Simple-React-TypeScript-ToDo/static/js/2.f1d6255d.chunk.js.map",
+    "index.html": "/Simple-React-TypeScript-ToDo/index.html",
+    "precache-manifest.fca19dc61182020c8506ae7980ebd097.js": "/Simple-React-TypeScript-ToDo/precache-manifest.fca19dc61182020c8506ae7980ebd097.js",
+    "service-worker.js": "/Simple-React-TypeScript-ToDo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Simple-React-TypeScript-ToDo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/art.svg": "/Simple-React-TypeScript-ToDo/static/media/art.066543a6.svg"
+  }
+}
